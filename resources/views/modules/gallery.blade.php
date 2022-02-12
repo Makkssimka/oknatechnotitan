@@ -1,4 +1,4 @@
-<div class="py-4">
+<div id="gallery" class="py-4">
     <div class="container">
         <div class="row">
             <div class="col-12">

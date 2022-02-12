@@ -3,34 +3,29 @@
         <div class="row">
             <div class="col-sm-12 fw-light d-flex justify-content-center g-font">
                 <a
-                    class="mx-2 top-menu__link {{ request()->routeIs('index') ? 'top-menu__link_active' : null }}"
-                    href="{{ route('index') }}">
+                    class="mx-2 top-menu__link"
+                    href="#main">
                         Пластиковые окна
                 </a>
                 <a
-                    class="mx-2 top-menu__link {{ request()->routeIs('balkony') ? 'top-menu__link_active' : null }}"
-                    href="{{ route('balkony') }}">
-                        Осткление балконов
+                    class="mx-2 top-menu__link"
+                    href="#services">
+                    Услуги
                 </a>
                 <a
-                    class="mx-2 top-menu__link {{ request()->routeIs('lodzhii') ? 'top-menu__link_active' : null }}"
-                    href="{{ route('lodzhii') }}">
-                        Отделка лоджий
+                    class="mx-2 top-menu__link"
+                    href="#about">
+                    Пеимущества
                 </a>
                 <a
-                    class="mx-2 top-menu__link {{ request()->routeIs('kotedzhi') ? 'top-menu__link_active' : null }}"
-                    href="{{ route('kotedzhi') }}">
-                        Окна для коттеджей
+                    class="mx-2 top-menu__link"
+                    href="#reviews">
+                        Отзывы
                 </a>
                 <a
-                    class="mx-2 top-menu__link {{ request()->routeIs('kontakty') ? 'top-menu__link_active' : null }}"
-                    href="{{ route('kontakty') }}">
-                        Контакты
-                </a>
-                <a
-                    class="mx-2 top-menu__link {{ request()->routeIs('akcii') ? 'top-menu__link_active' : null }}"
-                    href="{{ route('akcii') }}">
-                        Акции и скидки
+                    class="mx-2 top-menu__link"
+                    href="#gallery">
+                    Наши работы
                 </a>
             </div>
         </div>

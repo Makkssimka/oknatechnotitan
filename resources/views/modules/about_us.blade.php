@@ -1,4 +1,4 @@
-<div class="about-us mt-4 py-4">
+<div id="about" class="about-us mt-4 py-4">
     <div class="container">
         <div class="row">
             <div class="col-12">

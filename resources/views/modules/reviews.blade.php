@@ -1,4 +1,4 @@
-<div class="reviews bg_grey py-5 my-5">
+<div id="reviews" class="reviews bg_grey py-5 my-5">
     <div class="container">
         <div class="col-12">
             <h2 class="fw-light g-font mb-5 text-center">
