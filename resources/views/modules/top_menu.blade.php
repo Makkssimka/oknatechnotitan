@@ -24,7 +24,7 @@
                 </a>
                 <a
                     class="mx-2 top-menu__link"
-                    href="#gallery">
+                    href="#gallery_jobs">
                     Наши работы
                 </a>
             </div>
