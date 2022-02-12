@@ -3,9 +3,9 @@
 /public/storage
 /storage/*.key
 /tests
-/vendor
 .editorconfig
 .env.backup
+.env
 .phpunit.result.cache
 docker-compose.override.yml
 Homestead.json
